@@ -19,6 +19,7 @@ This is a list of applications of deep learning methods in proteomics.
 2. **Prosit**
 	- Source code: https://github.com/kusterlab/prosit
 	- Pre-trained models: https://www.proteomicsdb.org/prosit/
+	- Prediction: https://www.proteomicsdb.org/prosit/, web server.
 	- Reference:  
 		- Gessulat, Siegfried, et al. "[Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning](https://www.nature.com/articles/s41592-019-0426-7)." *Nature methods* 16.6 (2019): 509-518.
 
@@ -58,8 +59,9 @@ This is a list of applications of deep learning methods in proteomics.
 1. **Prosit**
 	- Source code: https://github.com/kusterlab/prosit
 	- Pre-trained models: https://www.proteomicsdb.org/prosit/
+	- Prediction: https://www.proteomicsdb.org/prosit/, web server.
 	- Reference:  
-		- Gessulat, Siegfried, et al. "Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning." *Nature methods* 16.6 (2019): 509-518.
+		- Gessulat, Siegfried, et al. "[Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning](https://www.nature.com/articles/s41592-019-0426-7)." *Nature methods* 16.6 (2019): 509-518.
 
 2. **DeepMass**
 	- Web: https://github.com/verilylifesciences/deepmass
