@@ -1,1 +1,359 @@
-# deep_learning_in_proteomics
+# Deep learning in proteomics
+This is a list of applications of deep learning methods in proteomics.
+### Table of contents:
+
+- [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
+- [Peptide retention time prediction](#peptide-retention-time-prediction)
+- [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
+- [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
+
+#### Peptide MS/MS spectrum prediction
+
+1. **pDeep**
+	- Source code: https://github.com/pFindStudio/pDeep
+	- Pre-trained models: https://github.com/pFindStudio/pDeep
+	- Reference:  
+		- Zeng, Wen-Feng, et al. "MS/MS spectrum prediction for modified peptides using pDeep2 trained by transfer learning." *Analytical chemistry* 91.15 (2019): 9724-9731.
+		- Zhou, Xie-Xuan, et al. "pDeep: predicting MS/MS spectra of peptides with deep learning." *Analytical chemistry* 89.23 (2017): 12690-12697.
+
+2. **Prosit**
+	- Source code: https://github.com/kusterlab/prosit
+	- Pre-trained models: https://www.proteomicsdb.org/prosit/
+	- Reference:  
+		- Gessulat, Siegfried, et al. "Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning." *Nature methods* 16.6 (2019): 509-518.
+
+3. **DeepMass**
+	- Web: https://github.com/verilylifesciences/deepmass
+	- Pre-trained models: DeepMass::Prism is provided as a service using Google Cloud Machine Learning Engine.
+	- Reference:  
+		- Tiwary, Shivani, et al. "[High-quality MS/MS spectrum prediction for data-dependent and data-independent acquisition data analysis](https://www.nature.com/articles/s41592-019-0427-6/)." *Nature methods* 16.6 (2019): 519-525.
+
+4. **Predfull**
+	- Source code: https://github.com/lkytal/PredFull
+	- Pre-trained models: https://github.com/lkytal/PredFull and http://predfull.com/
+	- Reference:  
+		- Liu, Kaiyuan, et al. "[Full-Spectrum Prediction of Peptides Tandem Mass Spectra using Deep Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.9b04867)." *Analytical Chemistry* 92.6 (2020): 4275-4283.
+
+5. **Guan et al.**
+	- Source code: https://zenodo.org/record/2652602#.X16LZZNKhTZ
+	- Pre-trained models: https://zenodo.org/record/2652602#.X16LZZNKhTZ
+	- Reference:  
+		- Guan, Shenheng, Michael F. Moran, and Bin Ma. "[Prediction of LC-MS/MS properties of peptides from sequence by deep learning](https://www.mcponline.org/content/18/10/2099.full)." *Molecular & Cellular Proteomics* 18.10 (2019): 2099-2107.
+
+6. **MS<sup>2</sup>CNN**
+	- Source code: https://github.com/changlabtw/MS2CNN
+	- Pre-trained models: https://github.com/changlabtw/MS2CNN
+	- Reference:  
+		- Lin, Yang-Ming, Ching-Tai Chen, and Jia-Ming Chang. "[MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6297-6)." *BMC genomics* 20.9 (2019): 1-10.
+
+7. **DeepDIA**:
+	- Source code: https://github.com/lmsac/DeepDIA/
+	- Pre-trained models: https://github.com/lmsac/DeepDIA/
+	- Reference:  
+		- Yang, Yi, et al. "[In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics](https://www.nature.com/articles/s41467-019-13866-z)." *Nature communications* 11.1 (2020): 1-11.
+
+
+#### Peptide retention time prediction
+
+1. **Prosit**
+	- Source code: https://github.com/kusterlab/prosit
+	- Pre-trained models: https://www.proteomicsdb.org/prosit/
+	- Reference:  
+		- Gessulat, Siegfried, et al. "Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning." *Nature methods* 16.6 (2019): 509-518.
+
+2. **DeepMass**
+	- Web: https://github.com/verilylifesciences/deepmass
+	- Pre-trained models: DeepMass::Prism is provided as a service using Google Cloud Machine Learning Engine.
+	- Reference:  
+		- Tiwary, Shivani, et al. "[High-quality MS/MS spectrum prediction for data-dependent and data-independent acquisition data analysis](https://www.nature.com/articles/s41592-019-0427-6/)." *Nature methods* 16.6 (2019): 519-525.
+
+3. **Guan et al.**
+	- Source code: https://zenodo.org/record/2652602#.X16LZZNKhTZ
+	- Pre-trained models: https://zenodo.org/record/2652602#.X16LZZNKhTZ
+	- Reference:  
+		- Guan, Shenheng, Michael F. Moran, and Bin Ma. "[Prediction of LC-MS/MS properties of peptides from sequence by deep learning](https://www.mcponline.org/content/18/10/2099.full)." *Molecular & Cellular Proteomics* 18.10 (2019): 2099-2107.
+
+4. **AutoRT**
+	- Source code: https://github.com/bzhanglab/AutoRT
+	- Pre-trained models: https://github.com/bzhanglab/AutoRT
+	- Reference:  
+		- Wen, Bo, et al. "[Cancer neoantigen prioritization through sensitive and reliable proteogenomics analysis](https://www.nature.com/articles/s41467-020-15456-w)." *Nature communications* 11.1 (2020): 1-14.
+
+5. **DeepDIA**:
+	- Source code: https://github.com/lmsac/DeepDIA/
+	- Pre-trained models: https://github.com/lmsac/DeepDIA/
+	- Reference:  
+		- Yang, Yi, et al. "[In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics](https://www.nature.com/articles/s41467-019-13866-z)." *Nature communications* 11.1 (2020): 1-11.
+
+6. **DeepRT**:
+	- Source code: https://github.com/horsepurve/DeepRTplus
+	- Pre-trained models: https://github.com/horsepurve/DeepRTplus
+	- Reference:  
+		- Ma, Chunwei, et al. "[Improved peptide retention time prediction in liquid chromatography through deep learning](https://pubs.acs.org/doi/10.1021/acs.analchem.8b02386)." *Analytical chemistry* 90.18 (2018): 10881-10888.
+
+7. **DeepLC**:
+	- Source code: https://github.com/compomics/DeepLC
+	- Pre-trained models: https://github.com/compomics/DeepLC
+	- Reference:  
+		- Bouwmeester, Robbin, et al. "[DeepLC can predict retention times for peptides that carry as-yet unseen modifications](https://doi.org/10.1101/2020.03.28.013003)." *BioRxiv* (2020).
+
+#### Peptide *de novo* sequencing
+
+1. **DeepNovo**
+	- Source code: https://github.com/nh2tran/DeepNovo
+	- Pre-trained models: https://github.com/nh2tran/DeepNovo
+	- Reference:  
+		- Tran, Ngoc Hieu, et al. "[De novo peptide sequencing by deep learning](https://www.pnas.org/content/114/31/8247)." *Proceedings of the National Academy of Sciences* 114.31 (2017): 8247-8252.
+
+2. **DeepNovo-DIA**
+	- Source code: https://github.com/nh2tran/DeepNovo-DIA
+	- Pre-trained models: https://github.com/nh2tran/DeepNovo-DIA
+	- Reference:  
+		- Tran, Ngoc Hieu, et al. "[Deep learning enables de novo peptide sequencing from data-independent-acquisition mass spectrometry](https://www.nature.com/articles/s41592-018-0260-3)." *Nature methods* 16.1 (2019): 63-66.
+
+3. **SMSNet**
+	- Source code: https://github.com/cmb-chula/SMSNet
+	- Pre-trained models: https://github.com/cmb-chula/SMSNet
+	- Reference:  
+		- Karunratanakul, Korrawe, et al. "[Uncovering thousands of new peptides with sequence-mask-search hybrid de novo peptide sequencing framework](https://www.mcponline.org/content/18/12/2478)." *Molecular & Cellular Proteomics* 18.12 (2019): 2478-2491.
+
+#### Protein post-translational modification site prediction
+
+1. **DeepACE**
+	- Source code: https://github.com/jiagenlee/DeepAce
+	- Reference:  
+		- Zhao, Xiaowei, et al. "[General and species-specific lysine acetylation site prediction using a bi-modal deep architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8487006)." *IEEE Access* 6 (2018): 63560-63569.
+
+2. **Deep-PLA**
+	- Web: http://deeppla.cancerbio.info/
+	- Prediction: http://deeppla.cancerbio.info/
+	- Reference:  
+		- Yu, Kai, et al. "[Deep learning based prediction of reversible HAT/HDAC-specific lysine acetylation](https://doi.org/10.1093/bib/bbz107)." *Briefings in Bioinformatics* (2019).
+
+
+3. **DeepAcet**
+	- Source code: https://github.com/Sunmile/DeepAcet
+	- Reference:  
+		- Wu, Meiqi, et al. "[A deep learning method to more accurately recall known lysine acetylation sites](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2632-9)." *BMC bioinformatics* 20.1 (2019): 49.
+
+4. **DNNAce**
+	- Source code: https://github.com/QUST-AIBBDRC/DNNAce/
+	- Reference:  
+		- Yu, Bin, et al. "[DNNAce: Prediction of prokaryote lysine acetylation sites through deep neural networks with multi-information fusion](https://www.sciencedirect.com/science/article/pii/S0169743919305453)." *Chemometrics and Intelligent Laboratory Systems* (2020): 103999.
+
+5. **pKcr**
+	- Web: http://www.bioinfogo.org/pkcr/
+	- Prediction: http://www.bioinfogo.org/pkcr/
+	- Reference:  
+		- Zhao, Yiming, Ningning He, Zhen Chen, and Lei Li. "[Identification of Protein Lysine Crotonylation Sites by a Deep Learning Framework With Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8959202)." *IEEE Access* 8 (2020): 14244-14252.
+
+
+6. **DeepGly**
+	- Reference:  
+		- Chen, Jingui, et al. "[DeepGly: A Deep Learning Framework With Recurrent and Convolutional Neural Networks to Identify Protein Glycation Sites From Imbalanced Data](https://ieeexplore.ieee.org/abstract/document/8852736)." *IEEE Access* 7 (2019): 142368-142378.
+
+7. **Longetal2018**
+	- Reference:  
+		- Long, Haixia, et al. "[A hybrid deep learning model for predicting protein hydroxylation sites](ncbi.nlm.nih.gov/pmc/articles/PMC6164125/)." *International Journal of Molecular Sciences* 19.9 (2018): 2817.
+
+8. **MUscADEL**
+	- Web: http://muscadel.erc.monash.edu/
+	- Prediction: http://muscadel.erc.monash.edu/
+	- Reference:  
+		- Chen, Zhen, et al. "[Large-scale comparative assessment of computational predictors for lysine post-translational modification sites](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6954452/)." *Briefings in bioinformatics* 20.6 (2019): 2267-2290.
+
+9. **LEMP**
+	- Web: http://www.bioinfogo.org/lemp
+	- Prediction: http://www.bioinfogo.org/lemp
+	- Reference:
+		- Chen, Zhen, et al. "[Integration of a deep learning classifier with a random forest approach for predicting malonylation sites](ncbi.nlm.nih.gov/pmc/articles/PMC6411950/)." *Genomics, proteomics & bioinformatics* 16.6 (2018): 451-459.
+
+10. **DeepNitro**
+	- Web: http://deepnitro.renlab.org/
+	- Prediction: http://deepnitro.renlab.org/, both web server and standalone.
+	- Reference:
+		- Xie, Yubin, et al. "[DeepNitro: prediction of protein nitration and nitrosylation sites by deep learning](https://www.sciencedirect.com/science/article/pii/S1672022918303474)." *Genomics, proteomics & bioinformatics* 16.4 (2018): 294-306.
+
+11. **MusiteDeep**
+	- Source code: https://github.com/duolinwang/MusiteDeep
+	- Pre-trained models: https://github.com/duolinwang/MusiteDeep
+	- Reference:
+		- Wang, Duolin, et al. "[MusiteDeep: a deep-learning framework for general and kinase-specific phosphorylation site prediction](https://pubmed.ncbi.nlm.nih.gov/29036382/)." *Bioinformatics* 33.24 (2017): 3909-3916.
+
+12. **NetPhosPan**
+	- Web: https://services.healthtech.dtu.dk/service.php?NetPhospan-1.0
+	- Prediction: https://services.healthtech.dtu.dk/service.php?NetPhospan-1.0, both web server and standalone.
+	- Reference:  
+		- Fenoy, Emilio, et al. "[A generic deep convolutional neural network framework for prediction of receptor–ligand interactions—NetPhosPan: application to kinase phosphorylation prediction](https://academic.oup.com/bioinformatics/article/35/7/1098/5088322)." *Bioinformatics* 35.7 (2019): 1098-1107.
+
+13. **DeepPhos**
+	- Source code: https://github.com/USTC-HIlab/DeepPhos
+	- Pre-trained models: https://github.com/USTC-HIlab/DeepPhos
+	- Reference:  
+		- Luo, Fenglin, et al. "[DeepPhos: prediction of protein phosphorylation sites with deep learning](https://academic.oup.com/bioinformatics/article/35/16/2766/5270665)." *Bioinformatics* 35.16 (2019): 2766-2773.
+
+14. **EMBER**
+	- Source code: https://github.com/gomezlab/EMBER
+	- Reference:  
+		- Kirchoff, Kathryn E., and Shawn M. Gomez. "[EMBER: Multi-label prediction of kinase-substrate phosphorylation events through deep learning](https://www.biorxiv.org/content/10.1101/2020.02.04.934216v1)." *BioRxiv* (2020).
+
+15. **DeepKinZero**
+	- Source code: https://github.com/tastanlab/DeepKinZero
+	- Pre-trained models: https://github.com/tastanlab/DeepKinZero
+	- Reference:
+		- Deznabi, Iman, et al. "[DeepKinZero: zero-shot learning for predicting kinase–phosphosite associations involving understudied kinases](https://academic.oup.com/bioinformatics/article/36/12/3652/5733725)." *Bioinformatics* 36.12 (2020): 3652-3661.
+
+16. **CapsNet_PTM**
+	- Source code: https://github.com/duolinwang/CapsNet_PTM
+	- Pre-trained models: https://github.com/duolinwang/CapsNet_PTM
+	- Reference:
+		- Wang, Duolin, Yanchun Liang, and Dong Xu. "[Capsule network for protein post-translational modification site prediction](https://academic.oup.com/bioinformatics/article/35/14/2386/5232223)." *Bioinformatics* 35.14 (2019): 2386-2394.
+
+17. **GPS-Palm**
+	- Web: http://gpspalm.biocuckoo.cn
+	- Prediction: http://gpspalm.biocuckoo.cn, standalone version.
+	- Reference:
+		- Ning, Wanshan, et al. "[GPS-Palm: a deep learning-based graphic presentation system for the prediction of S-palmitoylation sites in proteins](https://doi.org/10.1093/bib/bbaa038)." *Briefings in Bioinformatics* (2020).
+
+18. **CNN-SuccSite**
+	- Web: http://csb.cse.yzu.edu.tw/CNN-SuccSite/
+	- Prediction: http://csb.cse.yzu.edu.tw/CNN-SuccSite/, web server.
+	- Reference:
+		- Huang, Kai-Yao, Justin Bo-Kai Hsu, and Tzong-Yi Lee. "[Characterization and Identification of Lysine Succinylation Sites based on Deep Learning Method](https://www.nature.com/articles/s41598-019-52552-4)." *Scientific reports* 9.1 (2019): 1-15.
+
+19. **DeepUbiquitylation**
+	- Source code: https://github.com/jiagenlee/deepUbiquitylation
+	- Pre-trained models: https://github.com/jiagenlee/deepUbiquitylation
+	- Reference:  
+		- He, Fei, et al. "[Large-scale prediction of protein ubiquitination sites using a multimodal deep architecture](https://link.springer.com/article/10.1186/s12918-018-0628-0)." *BMC systems biology* 12.6 (2018): 109.
+
+20. **DeepUbi**
+	- Source code: https://github.com/Sunmile/DeepUbi
+	- Reference:  
+		- Fu, Hongli, et al. "[DeepUbi: a deep learning framework for prediction of ubiquitination sites in proteins](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2677-9)." *BMC bioinformatics* 20.1 (2019): 1-10.
+
+
+#### MHC-peptide binding prediction
+
+1. **ConvMHC**
+	- Web: http://jumong.kaist.ac.kr:8080/convmhc
+	- Prediction: http://jumong.kaist.ac.kr:8080/convmhc, web server.
+	- Reference:  
+		- Han, Youngmahn, and Dongsup Kim. "[Deep convolutional neural networks for pan-specific peptide-MHC class I binding prediction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1997-x)." *BMC bioinformatics* 18.1 (2017): 585.
+
+2. **HLA-CNN**
+	- Source code: https://github.com/uci-cbcl/HLA-bind
+	- Pre-trained models: https://github.com/uci-cbcl/HLA-bind
+	- Reference:  
+		- Vang, Yeeleng S., and Xiaohui Xie. "[HLA class I binding prediction via convolutional neural networks](https://academic.oup.com/bioinformatics/article/33/17/2658/3746909)." *Bioinformatics* 33.17 (2017): 2658-2665.
+
+3. **DeepMHC**
+	- Reference:  
+		- Hu, Jianjun, and Zhonghao Liu. "[DeepMHC: Deep convolutional neural networks for high-performance peptide-MHC binding affinity prediction](https://doi.org/10.1101/239236)." *bioRxiv* (2017): 239236.
+
+4. **DeepSeqPan**
+	- Source code: https://github.com/pcpLiu/DeepSeqPan
+	- Pre-trained models: https://github.com/pcpLiu/DeepSeqPan
+	- Reference:  
+		- Liu, Zhonghao, et al. "[DeepSeqPan, a novel deep convolutional neural network model for pan-specific class I HLA-peptide binding affinity prediction](https://www.nature.com/articles/s41598-018-37214-1)." *Scientific reports* 9.1 (2019): 1-10.
+
+5. **AI-MHC**
+	- Web: https://baras.pathology.jhu.edu/ai-mhc
+	- Prediction: https://baras.pathology.jhu.edu/ai-mhc, web server.
+	- Reference:  
+		- Sidhom, John-William, Drew Pardoll, and Alexander Baras. "[AI-MHC: an allele-integrated deep learning framework for improving Class I & Class II HLA-binding predictions](https://www.biorxiv.org/content/10.1101/318881v1.full)." *bioRxiv* (2018): 318881.
+
+6. **DeepSeqPanII**
+	- Source code: https://github.com/pcpLiu/DeepSeqPanII
+	- Pre-trained models: https://github.com/pcpLiu/DeepSeqPanII
+	- Reference:  
+		- Liu, Zhonghao, et al. "[DeepSeqPanII: an interpretable recurrent neural network model with attention mechanism for peptide-HLA class II binding prediction](https://www.biorxiv.org/content/10.1101/817502v1)." *bioRxiv* (2019): 817502.
+
+7. **MHCSeqNet**
+	- Source code: https://github.com/cmb-chula/MHCSeqNet
+	- Pre-trained models: https://github.com/cmb-chula/MHCSeqNet
+	- Reference:  
+		- Phloyphisut, Poomarin, et al. "[MHCSeqNet: a deep neural network model for universal MHC binding prediction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2892-4)." *BMC bioinformatics* 20.1 (2019): 270.
+
+8. **MARIA**
+	- Web: https://maria.stanford.edu/
+	- Prediction: https://maria.stanford.edu/, web server.
+	- Reference:
+		- Chen, Binbin, et al. "[Predicting HLA class II antigen presentation through integrated deep learning](https://www.nature.com/articles/s41587-019-0280-2)." *Nature biotechnology* 37.11 (2019): 1332-1343.
+
+9. **MHCflurry**
+	- Source code: https://github.com/openvax/mhcflurry
+	- Pre-trained models: https://github.com/openvax/mhcflurry
+	- Reference:
+		- O'Donnell, Timothy J., et al. "[MHCflurry: open-source class I MHC binding affinity prediction](https://www.sciencedirect.com/science/article/pii/S2405471218302321)." *Cell systems* 7.1 (2018): 129-132.
+
+10. **DeepHLApan**
+	- Source code: https://github.com/jiujiezz/deephlapan
+	- Pre-trained models: https://github.com/jiujiezz/deephlapan
+	- Prediction: http://biopharm.zju.edu.cn/deephlapan/, web server.
+	- Reference:
+		- Wu, Jingcheng, et al. "[DeepHLApan: a deep learning approach for neoantigen prediction considering both HLA-peptide binding and immunogenicity](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02559/full)." *Frontiers in Immunology* 10 (2019): 2559.
+
+11. **ACME**
+	- Source code: https://github.com/HYsxe/ACME
+	- Pre-trained models: https://github.com/HYsxe/ACME
+	- Reference:
+		- Hu, Yan, et al. "[ACME: pan-specific peptide–MHC class I binding prediction through attention-based deep neural networks](https://academic.oup.com/bioinformatics/article/35/23/4946/5497763)." *Bioinformatics* 35.23 (2019): 4946-4954.
+
+12. **EDGE**
+	- Source code: [Supplementary data](https://static-content.springer.com/esm/art%3A10.1038%2Fnbt.4313/MediaObjects/41587_2019_BFnbt4313_MOESM48_ESM.zip)
+	- Reference:
+		- Bulik-Sullivan, Brendan, et al. "[Deep learning using tumor HLA peptide mass spectrometry datasets improves neoantigen identification](https://www.nature.com/articles/nbt.4313)." *Nature biotechnology* 37.1 (2019): 55-63.
+
+13. **CNN-NF**
+	- Source code: https://github.com/zty2009/MHC-I
+	- Reference:
+		- Zhao, Tianyi, et al. "[Peptide-Major Histocompatibility Complex Class I Binding Prediction Based on Deep Learning With Novel Feature](https://www.frontiersin.org/articles/10.3389/fgene.2019.01191/full)." *Frontiers in Genetics* 10 (2019).
+
+14. **MHCnuggets**
+	- Web: https://karchinlab.org/apps/appMHCnuggets.html
+	- Source code: https://github.com/KarchinLab/mhcnuggets
+	- Pre-trained models: https://github.com/KarchinLab/mhcnuggets
+	- Reference:
+		- Shao, Xiaoshan M., et al. "[High-throughput prediction of MHC class i and ii neoantigens with MHCnuggets](https://cancerimmunolres.aacrjournals.org/content/8/3/396.abstract)." *Cancer Immunology Research* 8.3 (2020): 396-408.
+
+15. **DeepNeo**
+	- Web: https://omics.kaist.ac.kr/resources
+	- Reference:
+		- Kim, Kwoneel, et al. "[Predicting clinical benefit of immunotherapy by antigenic or functional mutations affecting tumour immunogenicity](https://www.nature.com/articles/s41467-020-14562-z)." *Nature communications* 11.1 (2020): 1-11.
+
+16. **DeepLigand**
+	- Source code: https://github.com/gifford-lab/DeepLigand
+	- Pre-trained models: https://github.com/gifford-lab/DeepLigand
+	- Reference:
+		- Zeng, Haoyang, and David K. Gifford. "[DeepLigand: accurate prediction of MHC class I ligands using peptide embedding](https://academic.oup.com/bioinformatics/article/35/14/i278/5529131)." *Bioinformatics* 35.14 (2019): i278-i283.
+
+17. **PUFFIN**
+	- Source code: http://github.com/gifford-lab/PUFFIN
+	- Pre-trained models: https://github.com/gifford-lab/PUFFIN
+	- Reference:
+		- Zeng, Haoyang, and David K. Gifford. "[Quantification of uncertainty in peptide-MHC binding prediction improves high-affinity peptide Selection for therapeutic design](https://doi.org/10.1016/j.cels.2019.05.004)." *Cell systems* 9.2 (2019): 159-166.
+
+18. **NeonMHC2**
+	- Web: https://neonmhc2.org/
+	- Source code: https://bitbucket.org/dharjanto-neon/neonmhc2
+	- Prediction: https://neonmhc2.org/, web server and standalone version.
+	- Reference:
+		- Abelin, Jennifer G., et al. "[Defining HLA-II ligand processing and binding rules with mass spectrometry enhances cancer epitope prediction](https://www.sciencedirect.com/science/article/pii/S1074761319303632)." *Immunity* 51.4 (2019): 766-779.
+
+19. **USMPep**
+	- Source code: https://github.com/nstrodt/USMPep
+	- Reference:
+		- Vielhaben, Johanna, et al. "[USMPep: universal sequence models for major histocompatibility complex binding affinity prediction](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03631-1#Sec14)." *BMC bioinformatics* 21.1 (2020): 1-16.
+
+20. **MHCherryPan**
+	- Reference:
+		- Xie, Xuezhi, Yuanyuan Han, and Kaizhong Zhang. "[MHCherryPan. a novel model to predict the binding affinity of pan-specific class I HLA-peptide](https://ieeexplore.ieee.org/abstract/document/8982962)." 2019 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE*, 2019.
+
+21. **MHCherryPan**
+	- Source code: https://github.com/jjin49/DeepAttentionPan
+	- Pre-trained models: https://github.com/jjin49/DeepAttentionPan
+	- Reference:
+		- Jin, Jing, et al. "[Attention mechanism-based deep learning pan-specific model for interpretable MHC-I peptide binding prediction](https://doi.org/10.1101/830737)." *bioRxiv* (2019): 830737.
+
+
