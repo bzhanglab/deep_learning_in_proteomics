@@ -156,7 +156,7 @@ This is a list of applications of deep learning methods in proteomics.
 
 7. **Longetal2018**
 	- Reference:  
-		- Long, Haixia, et al. "[A hybrid deep learning model for predicting protein hydroxylation sites](ncbi.nlm.nih.gov/pmc/articles/PMC6164125/)." *International Journal of Molecular Sciences* 19.9 (2018): 2817.
+		- Long, Haixia, et al. "[A hybrid deep learning model for predicting protein hydroxylation sites](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6164125/)." *International Journal of Molecular Sciences* 19.9 (2018): 2817.
 
 8. **MUscADEL**
 	- Web: http://muscadel.erc.monash.edu/
