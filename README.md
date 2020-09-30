@@ -262,8 +262,8 @@ This is a list of applications of deep learning methods in proteomics.
 		- Liu, Zhonghao, et al. "[DeepSeqPan, a novel deep convolutional neural network model for pan-specific class I HLA-peptide binding affinity prediction](https://www.nature.com/articles/s41598-018-37214-1)." *Scientific reports* 9.1 (2019): 1-10.
 
 5. **AI-MHC**
-	- Web: https://baras.pathology.jhu.edu/ai-mhc
-	- Prediction: https://baras.pathology.jhu.edu/ai-mhc, web server.
+	- Web: https://baras.pathology.jhu.edu/AI-MHC/index.html
+	- Prediction: https://baras.pathology.jhu.edu/AI-MHC/index.html, web server.
 	- Reference:  
 		- Sidhom, John-William, Drew Pardoll, and Alexander Baras. "[AI-MHC: an allele-integrated deep learning framework for improving Class I & Class II HLA-binding predictions](https://www.biorxiv.org/content/10.1101/318881v1.full)." *bioRxiv* (2018): 318881.
 
