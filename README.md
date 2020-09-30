@@ -250,6 +250,8 @@ This is a list of applications of deep learning methods in proteomics.
 		- Vang, Yeeleng S., and Xiaohui Xie. "[HLA class I binding prediction via convolutional neural networks](https://academic.oup.com/bioinformatics/article/33/17/2658/3746909)." *Bioinformatics* 33.17 (2017): 2658-2665.
 
 3. **DeepMHC**
+	- Web: http://mleg.cse.sc.edu/deepMHC/
+	- Prediction: http://mleg.cse.sc.edu/deepMHC/, web server.
 	- Reference:  
 		- Hu, Jianjun, and Zhonghao Liu. "[DeepMHC: Deep convolutional neural networks for high-performance peptide-MHC binding affinity prediction](https://doi.org/10.1101/239236)." *bioRxiv* (2017): 239236.
 
