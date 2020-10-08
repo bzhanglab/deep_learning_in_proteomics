@@ -354,7 +354,7 @@ This is a list of applications of deep learning methods in proteomics.
 	- Reference:
 		- Xie, Xuezhi, Yuanyuan Han, and Kaizhong Zhang. "[MHCherryPan. a novel model to predict the binding affinity of pan-specific class I HLA-peptide](https://ieeexplore.ieee.org/abstract/document/8982962)." 2019 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE*, 2019.
 
-21. **MHCherryPan**
+21. **DeepAttentionPan**
 	- Source code: https://github.com/jjin49/DeepAttentionPan
 	- Pre-trained models: https://github.com/jjin49/DeepAttentionPan
 	- Reference:
