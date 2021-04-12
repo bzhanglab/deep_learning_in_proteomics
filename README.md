@@ -70,30 +70,30 @@ This is a list of applications of deep learning methods in proteomics.
 
 #### Peptide retention time prediction
 
-1. **Prosit**
+1. **AutoRT**
+	- Source code: https://github.com/bzhanglab/AutoRT
+	- Pre-trained models: https://github.com/bzhanglab/AutoRT
+	- Reference:  
+		- Wen, Bo, et al. "[Cancer neoantigen prioritization through sensitive and reliable proteogenomics analysis](https://www.nature.com/articles/s41467-020-15456-w)." *Nature communications* 11.1 (2020): 1-14.
+
+2. **Prosit**
 	- Source code: https://github.com/kusterlab/prosit
 	- Pre-trained models: https://www.proteomicsdb.org/prosit/
 	- Prediction: https://www.proteomicsdb.org/prosit/, web server.
 	- Reference:  
 		- Gessulat, Siegfried, et al. "[Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning](https://www.nature.com/articles/s41592-019-0426-7)." *Nature methods* 16.6 (2019): 509-518.
 
-2. **DeepMass**
+3. **DeepMass**
 	- Web: https://github.com/verilylifesciences/deepmass
 	- Pre-trained models: DeepMass::Prism is provided as a service using Google Cloud Machine Learning Engine.
 	- Reference:  
 		- Tiwary, Shivani, et al. "[High-quality MS/MS spectrum prediction for data-dependent and data-independent acquisition data analysis](https://www.nature.com/articles/s41592-019-0427-6/)." *Nature methods* 16.6 (2019): 519-525.
 
-3. **Guan et al.**
+4. **Guan et al.**
 	- Source code: https://zenodo.org/record/2652602#.X16LZZNKhTZ
 	- Pre-trained models: https://zenodo.org/record/2652602#.X16LZZNKhTZ
 	- Reference:  
 		- Guan, Shenheng, Michael F. Moran, and Bin Ma. "[Prediction of LC-MS/MS properties of peptides from sequence by deep learning](https://www.mcponline.org/content/18/10/2099.full)." *Molecular & Cellular Proteomics* 18.10 (2019): 2099-2107.
-
-4. **AutoRT**
-	- Source code: https://github.com/bzhanglab/AutoRT
-	- Pre-trained models: https://github.com/bzhanglab/AutoRT
-	- Reference:  
-		- Wen, Bo, et al. "[Cancer neoantigen prioritization through sensitive and reliable proteogenomics analysis](https://www.nature.com/articles/s41467-020-15456-w)." *Nature communications* 11.1 (2020): 1-14.
 
 5. **DeepDIA**:
 	- Source code: https://github.com/lmsac/DeepDIA/
