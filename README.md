@@ -15,6 +15,7 @@ This is a list of applications of deep learning methods in proteomics.
 	- Reference:  
 		- Zeng, Wen-Feng, et al. "[MS/MS spectrum prediction for modified peptides using pDeep2 trained by transfer learning](https://pubs.acs.org/doi/10.1021/acs.analchem.9b01262)." *Analytical chemistry* 91.15 (2019): 9724-9731.
 		- Zhou, Xie-Xuan, et al. "[pDeep: predicting MS/MS spectra of peptides with deep learning](https://pubs.acs.org/doi/10.1021/acs.analchem.7b02566)." *Analytical chemistry* 89.23 (2017): 12690-12697.
+		- Ching Tarn, Wen-Feng Zeng. "[pDeep3: Toward More Accurate Spectrum Prediction with Fast Few-Shot Learning](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.0c05427)." *Analytical chemistry* 2021.
 
 2. **Prosit**
 	- Source code: https://github.com/kusterlab/prosit
