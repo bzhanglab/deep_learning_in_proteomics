@@ -10,8 +10,8 @@ This is a list of applications of deep learning methods in proteomics.
 #### Peptide MS/MS spectrum prediction
 
 1. **pDeep**
-	- Source code: https://github.com/pFindStudio/pDeep
-	- Pre-trained models: https://github.com/pFindStudio/pDeep
+	- Source code: http://pfind.ict.ac.cn/software/pdeep3
+	- Pre-trained models: http://pfind.ict.ac.cn/software/pdeep3
 	- Reference:  
 		- Zeng, Wen-Feng, et al. "[MS/MS spectrum prediction for modified peptides using pDeep2 trained by transfer learning](https://pubs.acs.org/doi/10.1021/acs.analchem.9b01262)." *Analytical chemistry* 91.15 (2019): 9724-9731.
 		- Zhou, Xie-Xuan, et al. "[pDeep: predicting MS/MS spectra of peptides with deep learning](https://pubs.acs.org/doi/10.1021/acs.analchem.7b02566)." *Analytical chemistry* 89.23 (2017): 12690-12697.
@@ -53,6 +53,19 @@ This is a list of applications of deep learning methods in proteomics.
 	- Pre-trained models: https://github.com/lmsac/DeepDIA/
 	- Reference:  
 		- Yang, Yi, et al. "[In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics](https://www.nature.com/articles/s41467-019-13866-z)." *Nature communications* 11.1 (2020): 1-11.
+
+8. **pDeepXL**:
+	- Source code: https://github.com/pFindStudio/pDeepXL
+	- Pre-trained models: https://github.com/pFindStudio/pDeepXL
+	- Reference:  
+		- Chen, Zhen-Lin, et al. "[pDeepXL: MS/MS Spectrum Prediction for Cross-Linked Peptide Pairs by Deep Learning](https://pubs.acs.org/doi/10.1021/acs.jproteome.0c01004)." *J. Proteome Res.* 2021.
+
+9. **Alpha-Frag**:
+	- Source code: https://github.com/YuAirLab/Alpha-Frag
+	- Pre-trained models: https://github.com/YuAirLab/Alpha-Frag
+	- Reference:  
+		- Jian, Song, et al. "[Alpha-Frag: a deep neural network for fragment presence prediction improves peptide identification by data independent acquisition mass spectrometry](https://doi.org/10.1101/2021.04.07.438629)." *bioRxiv.* 2021.
+
 
 
 #### Peptide retention time prediction
