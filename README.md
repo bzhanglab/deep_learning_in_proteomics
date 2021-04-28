@@ -23,6 +23,8 @@ This is a list of applications of deep learning methods in proteomics.
 	- Prediction: https://www.proteomicsdb.org/prosit/, web server.
 	- Reference:  
 		- Gessulat, Siegfried, et al. "[Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning](https://www.nature.com/articles/s41592-019-0426-7)." *Nature methods* 16.6 (2019): 509-518.
+	- Application:
+		- Verbruggen, Steven, et al. "Spectral prediction features as a solution for the search space size problem in proteogenomics." Molecular & Cellular Proteomics (2021): 100076.
 
 3. **DeepMass**
 	- Web: https://github.com/verilylifesciences/deepmass
@@ -67,7 +69,6 @@ This is a list of applications of deep learning methods in proteomics.
 		- Jian, Song, et al. "[Alpha-Frag: a deep neural network for fragment presence prediction improves peptide identification by data independent acquisition mass spectrometry](https://doi.org/10.1101/2021.04.07.438629)." *bioRxiv.* 2021.
 
 
-
 #### Peptide retention time prediction
 
 1. **AutoRT**
@@ -75,6 +76,8 @@ This is a list of applications of deep learning methods in proteomics.
 	- Pre-trained models: https://github.com/bzhanglab/AutoRT
 	- Reference:  
 		- Wen, Bo, et al. "[Cancer neoantigen prioritization through sensitive and reliable proteogenomics analysis](https://www.nature.com/articles/s41467-020-15456-w)." *Nature communications* 11.1 (2020): 1-14.
+	- Application:
+		- Li, Kai, et al. "DeepRescore: Leveraging Deep Learning to Improve Peptide Identification in Immunopeptidomics." Proteomics 20.21-22 (2020): 1900334.
 
 2. **Prosit**
 	- Source code: https://github.com/kusterlab/prosit
