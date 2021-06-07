@@ -25,6 +25,7 @@ This is a list of applications of deep learning methods in proteomics.
 		- Gessulat, Siegfried, et al. "[Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning](https://www.nature.com/articles/s41592-019-0426-7)." *Nature methods* 16.6 (2019): 509-518.
 	- Application:
 		- Verbruggen, Steven, et al. "[Spectral prediction features as a solution for the search space size problem in proteogenomics](https://doi.org/10.1016/j.mcpro.2021.100076)." Molecular & Cellular Proteomics (2021): 100076.
+		- Wilhelm, M., Zolg, D.P., Graber, M. et al. [Deep learning boosts sensitivity of mass spectrometry-based immunopeptidomics](https://www.nature.com/articles/s41467-021-23713-9). Nat Commun 12, 3346 (2021).
 
 3. **DeepMass**
 	- Web: https://github.com/verilylifesciences/deepmass
@@ -85,6 +86,8 @@ This is a list of applications of deep learning methods in proteomics.
 	- Prediction: https://www.proteomicsdb.org/prosit/, web server.
 	- Reference:  
 		- Gessulat, Siegfried, et al. "[Prosit: proteome-wide prediction of peptide tandem mass spectra by deep learning](https://www.nature.com/articles/s41592-019-0426-7)." *Nature methods* 16.6 (2019): 509-518.
+	- Application:
+	 	- Wilhelm, M., Zolg, D.P., Graber, M. et al. [Deep learning boosts sensitivity of mass spectrometry-based immunopeptidomics](https://www.nature.com/articles/s41467-021-23713-9). Nat Commun 12, 3346 (2021).
 
 3. **DeepMass**
 	- Web: https://github.com/verilylifesciences/deepmass
