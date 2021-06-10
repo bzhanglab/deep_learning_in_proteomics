@@ -1,5 +1,8 @@
 # [Deep learning in proteomics](https://doi.org/10.1002/pmic.201900335)
 This is a list of applications of deep learning methods in proteomics. 
+
+Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [Deep Learning in Proteomics](https://doi.org/10.1002/pmic.201900335). Proteomics 2020, 20, 1900335.
+
 ### Table of contents:
 
 - [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
