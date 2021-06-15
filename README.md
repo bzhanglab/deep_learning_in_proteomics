@@ -7,6 +7,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 
 - [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
 - [Peptide retention time prediction](#peptide-retention-time-prediction)
+- [Peptide identification](#peptide-identification)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
 - [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
 
@@ -130,25 +131,38 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 
 
 
-#### Peptide *de novo* sequencing
+#### Peptide identification
 
-1. **DeepNovo**
+1. **DeepNovo**: De novo peptide sequencing
 	- Source code: https://github.com/nh2tran/DeepNovo
 	- Pre-trained models: https://github.com/nh2tran/DeepNovo
 	- Reference:  
 		- Tran, Ngoc Hieu, et al. "[De novo peptide sequencing by deep learning](https://www.pnas.org/content/114/31/8247)." *Proceedings of the National Academy of Sciences* 114.31 (2017): 8247-8252.
 
-2. **DeepNovo-DIA**
+2. **DeepNovo-DIA**: De novo peptide sequencing
 	- Source code: https://github.com/nh2tran/DeepNovo-DIA
 	- Pre-trained models: https://github.com/nh2tran/DeepNovo-DIA
 	- Reference:  
 		- Tran, Ngoc Hieu, et al. "[Deep learning enables de novo peptide sequencing from data-independent-acquisition mass spectrometry](https://www.nature.com/articles/s41592-018-0260-3)." *Nature methods* 16.1 (2019): 63-66.
 
-3. **SMSNet**
+3. **SMSNet**: De novo peptide sequencing
 	- Source code: https://github.com/cmb-chula/SMSNet
 	- Pre-trained models: https://github.com/cmb-chula/SMSNet
 	- Reference:  
 		- Karunratanakul, Korrawe, et al. "[Uncovering thousands of new peptides with sequence-mask-search hybrid de novo peptide sequencing framework](https://www.mcponline.org/content/18/12/2478)." *Molecular & Cellular Proteomics* 18.12 (2019): 2478-2491.
+
+4. **DeepRescore**: Leveraging deep learning to improve peptide identification
+	- Source code: https://github.com/bzhanglab/DeepRescore
+	- Reference:  
+		- Li, Kai, et al. "[DeepRescore: Leveraging Deep Learning to Improve Peptide Identification in Immunopeptidomics](https://doi.org/10.1002/pmic.201900334)." Proteomics 20.21-22 (2020): 1900334.
+
+5. **PointNovo**: De novo peptide sequencing
+	- Source code: https://github.com/volpato30/PointNovo
+	- Pre-trained models: https://github.com/volpato30/PointNovo
+	- Reference:  
+		- Qiao, R., Tran, N.H., Xin, L. et al. "[Computationally instrument-resolution-independent de novo peptide sequencing for high-resolution devices](https://doi.org/10.1038/s42256-021-00304-3)." *Nat Mach Intell* 3, 420–425 (2021). 
+
+
 
 #### Protein post-translational modification site prediction
 
