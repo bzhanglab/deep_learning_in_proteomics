@@ -8,6 +8,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 - [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
 - [Peptide retention time prediction](#peptide-retention-time-prediction)
 - [Peptide identification](#peptide-identification)
+- [Data-independent acquisition mass spectrometry (DIA)](#dia-ms)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
 - [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
 
@@ -162,6 +163,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Qiao, R., Tran, N.H., Xin, L. et al. "[Computationally instrument-resolution-independent de novo peptide sequencing for high-resolution devices](https://doi.org/10.1038/s42256-021-00304-3)." *Nat Mach Intell* 3, 420–425 (2021). 
 
+
+#### Data-independent acquisition mass spectrometry (DIA)
+
+1. **Alpha-XIC**
+        - Source code: https://github.com/YuAirLab/Alpha-XIC
+	- Reference:  
+		- Jian Song, Changbin Yu. "[Alpha-XIC: a deep neural network for scoring the coelution of peak groups improves peptide identification by data-independent acquisition mass spectrometry](https://doi.org/10.1093/bioinformatics/btab544)." *Bioinformatics*, btab544 (2021). 
 
 
 #### Protein post-translational modification site prediction
