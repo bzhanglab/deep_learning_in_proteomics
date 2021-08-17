@@ -8,7 +8,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 - [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
 - [Peptide retention time prediction](#peptide-retention-time-prediction)
 - [Peptide identification](#peptide-identification)
-- [Data-independent acquisition mass spectrometry (DIA)](#dia-ms)
+- [Data-independent acquisition mass spectrometry](#dia-ms)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
 - [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
 
@@ -164,7 +164,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Qiao, R., Tran, N.H., Xin, L. et al. "[Computationally instrument-resolution-independent de novo peptide sequencing for high-resolution devices](https://doi.org/10.1038/s42256-021-00304-3)." *Nat Mach Intell* 3, 420–425 (2021). 
 
 
-#### Data-independent acquisition mass spectrometry (DIA)
+#### Data-independent acquisition mass spectrometry
 
 1. **Alpha-XIC**
         - Source code: https://github.com/YuAirLab/Alpha-XIC
