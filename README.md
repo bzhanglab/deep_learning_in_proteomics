@@ -8,7 +8,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 - [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
 - [Peptide retention time prediction](#peptide-retention-time-prediction)
 - [Peptide identification](#peptide-identification)
-- [Data-independent acquisition mass spectrometry](#dia-ms)
+- [Data-independent acquisition mass spectrometry](#data-independent-acquisition-mass-spectrometry)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
 - [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
 
