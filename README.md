@@ -84,6 +84,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Wen, Bo, et al. "[Cancer neoantigen prioritization through sensitive and reliable proteogenomics analysis](https://www.nature.com/articles/s41467-020-15456-w)." *Nature communications* 11.1 (2020): 1-14.
 	- Application:
 		- Li, Kai, et al. "[DeepRescore: Leveraging Deep Learning to Improve Peptide Identification in Immunopeptidomics](https://doi.org/10.1002/pmic.201900334)." Proteomics 20.21-22 (2020): 1900334.
+		- Samuel Rivero Hinojosa, et al. "[Proteogenomic Discovery of Neoantigens Facilitates Personalized Multi-antigen Targeted T cell Immunotherapy for Brain Tumors](https://doi.org/10.1101/2021.08.13.456263)." *bioRxiv* 2021.
 
 2. **Prosit**
 	- Source code: https://github.com/kusterlab/prosit
