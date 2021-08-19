@@ -175,6 +175,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Jian Song, Changbin Yu. "[Alpha-XIC: a deep neural network for scoring the coelution of peak groups improves peptide identification by data-independent acquisition mass spectrometry](https://doi.org/10.1093/bioinformatics/btab544)." *Bioinformatics*, btab544 (2021). 
 
+2. **DeepDIA**:
+	- Source code: https://github.com/lmsac/DeepDIA/
+	- Pre-trained models: https://github.com/lmsac/DeepDIA/
+	- Reference:  
+		- Yang, Yi, et al. "[In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics](https://www.nature.com/articles/s41467-019-13866-z)." *Nature communications* 11.1 (2020): 1-11.
+
 
 #### Protein post-translational modification site prediction
 
