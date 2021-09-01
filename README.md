@@ -7,6 +7,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 
 - [Peptide MS/MS spectrum prediction](#peptide-msms-spectrum-prediction)
 - [Peptide retention time prediction](#peptide-retention-time-prediction)
+- [Peptide CCS prediction](#peptide-ccs-prediction)
 - [Peptide identification](#peptide-identification)
 - [Data-independent acquisition mass spectrometry](#data-independent-acquisition-mass-spectrometry)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
@@ -132,7 +133,16 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Source code: https://github.com/Rappsilber-Laboratory/xiRT
 	- Pre-trained models: https://github.com/Rappsilber-Laboratory/xiRT
 	- Reference:  
-		- Giese, S.H., Sinn, L.R., Wegner, F. et al. "[Retention time prediction using neural networks increases identifications in crosslinking mass spectrometry](https://www.nature.com/articles/s41467-021-23441-0)." Nat Commun 12, 3237 (2021).
+		- Meier, F., Köhler, N.D., Brunner, AD. et al. [Deep learning the collisional cross sections of the peptide universe from a million experimental values](). Nat Commun 12, 1185 (2021).
+
+
+#### Peptide CCS prediction
+
+1. **DeepCollisionalCrossSection**:
+	- Source code: https://github.com/theislab/DeepCollisionalCrossSection
+	- Pre-trained models: https://github.com/theislab/DeepCollisionalCrossSection
+	- Reference:  
+		- Giese, S.H., Sinn, L.R., Wegner, F. et al. "[Retention time prediction using neural networks increases identifications in crosslinking mass spectrometry](https://www.nature.com/articles/s41467-021-21352-8)." Nat Commun 12, 3237 (2021).
 
 
 
