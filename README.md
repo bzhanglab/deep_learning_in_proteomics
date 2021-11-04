@@ -179,6 +179,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Qiao, R., Tran, N.H., Xin, L. et al. "[Computationally instrument-resolution-independent de novo peptide sequencing for high-resolution devices](https://doi.org/10.1038/s42256-021-00304-3)." *Nat Mach Intell* 3, 420–425 (2021). 
 
 
+6. **pValid 2**: Leveraging deep learning to improve peptide identification
+	- Homepage: http://pfind.ict.ac.cn/software/pValid2/index.html
+	- Reference:  
+		- Zhou, Wen-Jing, et al. "[pValid 2: A deep learning based validation method for peptide identification in shotgun proteomics with increased discriminating power](https://www.sciencedirect.com/science/article/abs/pii/S1874391921003134)." *Journal of Proteomics* (2021): 104414. 
+		
+
 #### Data-independent acquisition mass spectrometry
 
 1. **Alpha-XIC**
