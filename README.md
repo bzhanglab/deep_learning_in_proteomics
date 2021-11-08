@@ -141,17 +141,17 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 #### Peptide CCS prediction
 
 1. **DeepCollisionalCrossSection**:
-	- Source code: https://github.com/yuminzhe/yuminzhe-Prediction-of-peptide-detectability-based-on-CapsNet-and-CBAM-module
-	- Pre-trained models: https://github.com/yuminzhe/yuminzhe-Prediction-of-peptide-detectability-based-on-CapsNet-and-CBAM-module
+	- Source code: https://github.com/theislab/DeepCollisionalCrossSection
+	- Pre-trained models: https://github.com/theislab/DeepCollisionalCrossSection
 	- Reference:  
 		- Meier, F., Köhler, N.D., Brunner, AD. et al. [Deep learning the collisional cross sections of the peptide universe from a million experimental values](https://www.nature.com/articles/s41467-021-21352-8). Nat Commun 12, 1185 (2021).
 
 
-#### Peptide detectability  prediction
+#### Peptide detectability prediction
 
 1. **Yu et. al.**:
-	- Source code: https://github.com/theislab/DeepCollisionalCrossSection
-	- Pre-trained models: https://github.com/theislab/DeepCollisionalCrossSection
+	- Source code: https://github.com/yuminzhe/yuminzhe-Prediction-of-peptide-detectability-based-on-CapsNet-and-CBAM-module
+	- Pre-trained models: https://github.com/yuminzhe/yuminzhe-Prediction-of-peptide-detectability-based-on-CapsNet-and-CBAM-module
 	- Reference:  
 		- Yu M, Duan Y, Li Z, Zhang Y. [Prediction of Peptide Detectability Based on CapsNet and Convolutional Block Attention Module](https://doi.org/10.3390/ijms222112080). *International Journal of Molecular Sciences*. 2021; 22(21):12080. 
 
