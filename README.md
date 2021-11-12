@@ -129,13 +129,14 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Source code: https://github.com/compomics/DeepLC
 	- Pre-trained models: https://github.com/compomics/DeepLC
 	- Reference:  
-		- Bouwmeester, Robbin, et al. "[DeepLC can predict retention times for peptides that carry as-yet unseen modifications](https://doi.org/10.1101/2020.03.28.013003)." *BioRxiv* (2020).
+		- Bouwmeester, R., Gabriels, R., Hulstaert, N. et al. [DeepLC can predict retention times for peptides that carry as-yet unseen modifications](https://doi.org/10.1038/s41592-021-01301-5). *Nat Methods* 18, 1363–1369 (2021). 
+
 
 7. **xiRT**:
 	- Source code: https://github.com/Rappsilber-Laboratory/xiRT
 	- Pre-trained models: https://github.com/Rappsilber-Laboratory/xiRT
 	- Reference:  
-		- Giese, S.H., Sinn, L.R., Wegner, F. et al. [Retention time prediction using neural networks increases identifications in crosslinking mass spectrometry](https://www.nature.com/articles/s41467-021-23441-0). Nat Commun 12, 3237 (2021).
+		- Giese, S.H., Sinn, L.R., Wegner, F. et al. [Retention time prediction using neural networks increases identifications in crosslinking mass spectrometry](https://www.nature.com/articles/s41467-021-23441-0). *Nat Commun* 12, 3237 (2021).
 
 
 #### Peptide CCS prediction
