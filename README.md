@@ -208,6 +208,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Yang, Yi, et al. "[In silico spectral libraries by deep learning facilitate data-independent acquisition proteomics](https://www.nature.com/articles/s41467-019-13866-z)." *Nature communications* 11.1 (2020): 1-11.
 
+3. **DeepPhospho**:
+	- Source code: https://github.com/weizhenFrank/DeepPhospho
+	- Pre-trained models: https://github.com/weizhenFrank/DeepPhospho
+	- Web server: http://shuilab.ihuman.shanghaitech.edu.cn/DeepPhospho
+	- Reference:  
+		- Lou, R., Liu, W., Li, R. et al. [DeepPhospho accelerates DIA phosphoproteome profiling through in silico library generation](https://doi.org/10.1038/s41467-021-26979-1). *Nat Commun* 12, 6685 (2021). 
+		
 
 #### Protein post-translational modification site prediction
 
