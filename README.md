@@ -324,6 +324,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Fu, Hongli, et al. "[DeepUbi: a deep learning framework for prediction of ubiquitination sites in proteins](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2677-9)." *BMC bioinformatics* 20.1 (2019): 1-10.
 
+21. **Sohoko-Kcr**
+	- Web server: https://sohoko-research-9uu23.ondigitalocean.app/
+	- Reference:  
+		- Sian Soo Tng, et al. "[Improved Prediction Model of Protein Lysine Crotonylation Sites Using Bidirectional Recurrent Neural Networks
+](https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00848)." *J. Proteome Res.* 2021.
+
 
 #### MHC-peptide binding prediction
 
