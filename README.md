@@ -469,6 +469,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 1. Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., "[Deep Learning in Proteomics](https://doi.org/10.1002/pmic.201900335)". *Proteomics* 2020, 20, 1900335.
 2. Meyer, Jesse G. "[Deep learning neural network tools for proteomics](https://doi.org/10.1016/j.crmeth.2021.100003)". *Cell Reports Methods* (2021): 100003.
 3. Matthias Mann, Chanchal Kumar, Wen-Feng Zeng, Maximilian T. Strauss, [Artificial intelligence for proteomics and biomarker discovery](https://doi.org/10.1016/j.cels.2021.06.006). *Cell Systems* 12, August 18, 2021.
+4. Yang, Y., Lin L., Qiao L., "[Deep learning approaches for data-independent acquisition proteomics](https://doi.org/10.1080/14789450.2021.2020654)". *Expert Review of Proteomics* 17 Dec 2021.
 
 
 
