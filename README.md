@@ -9,6 +9,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 - [Peptide retention time prediction](#peptide-retention-time-prediction)
 - [Peptide CCS prediction](#peptide-ccs-prediction)
 - [Peptide detectability prediction](#peptide-detectability-prediction)
+- [MS/MS spectrum quality prediction](#msms-spectrum-quality-prediction)
 - [Peptide identification](#peptide-identification)
 - [Data-independent acquisition mass spectrometry](#data-independent-acquisition-mass-spectrometry)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
@@ -155,6 +156,14 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/yuminzhe/yuminzhe-Prediction-of-peptide-detectability-based-on-CapsNet-and-CBAM-module
 	- Reference:  
 		- Yu M, Duan Y, Li Z, Zhang Y. [Prediction of Peptide Detectability Based on CapsNet and Convolutional Block Attention Module](https://doi.org/10.3390/ijms222112080). *International Journal of Molecular Sciences*. 2021; 22(21):12080. 
+
+
+#### MS/MS spectrum quality prediction
+
+1. **SPEQ**:
+	- Source code: https://github.com/sor8sh/SPEQ
+	- Reference:  
+		- Soroosh Gholamizoj, Bin Ma. [SPEQ: Quality Assessment of Peptide Tandem Mass Spectra with Deep Learning](https://doi.org/10.1093/bioinformatics/btab874). *Bioinformatics*. 2022; btab874.
 
 
 #### Peptide identification
