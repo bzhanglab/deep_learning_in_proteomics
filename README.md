@@ -202,6 +202,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Homepage: http://pfind.ict.ac.cn/software/pValid2/index.html
 	- Reference:  
 		- Zhou, Wen-Jing, et al. "[pValid 2: A deep learning based validation method for peptide identification in shotgun proteomics with increased discriminating power](https://www.sciencedirect.com/science/article/abs/pii/S1874391921003134)." *Journal of Proteomics* (2021): 104414. 
+
+
+7. **Casanovo**: De novo peptide sequencing
+	- Source code: https://github.com/Noble-Lab/casanovo
+	- Pre-trained models: https://github.com/Noble-Lab/casanovo
+	- Reference:  
+		- Melih Yilmaz, William E. Fondrie, Wout Bittremieux, Sewoong Oh, William Stafford Noble. "[De novo mass spectrometry peptide sequencing with a transformer model](https://doi.org/10.1101/2022.02.07.479481)". *bioRxiv*. 2022.
 		
 
 #### Data-independent acquisition mass spectrometry
