@@ -210,6 +210,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Melih Yilmaz, William E. Fondrie, Wout Bittremieux, Sewoong Oh, William Stafford Noble. "[De novo mass spectrometry peptide sequencing with a transformer model](https://doi.org/10.1101/2022.02.07.479481)". *bioRxiv*. 2022.
 		
+8. **PepNet**: De novo peptide sequencing
+	- Source code: https://github.com/lkytal/PepNet
+	- Pre-trained models: https://github.com/lkytal/PepNet
+	- Reference:  
+		- Kaiyuan Liu, Yuzhen Ye, Haixu Tang. "[PepNet: A Fully Convolutional Neural Network for De novo Peptide Sequencing](https://www.researchsquare.com/article/rs-1341615/v1)". *Research Square*. 2022.
+		
 
 #### Data-independent acquisition mass spectrometry
 
