@@ -14,7 +14,9 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 - [Data-independent acquisition mass spectrometry](#data-independent-acquisition-mass-spectrometry)
 - [Protein post-translational modification site prediction](#protein-post-translational-modification-site-prediction)
 - [MHC-peptide binding prediction](#mhc-peptide-binding-prediction)
+- [Benchmarking](#benchmarking)
 - [Reviews about deep learning in proteomics](#reviews-about-deep-learning-in-proteomics)
+
 
 #### Peptide MS/MS spectrum prediction
 
@@ -484,6 +486,11 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/jjin49/DeepAttentionPan
 	- Reference:
 		- Jin, Jing, et al. "[Attention mechanism-based deep learning pan-specific model for interpretable MHC-I peptide binding prediction](https://doi.org/10.1101/830737)." *bioRxiv* (2019): 830737.
+
+
+#### Benchmarking
+
+1. Emily Franklin, Hannes L. Röst, "[Comparing Machine Learning Architectures for the Prediction of Peptide Collisional Cross Section](https://doi.org/10.1101/2022.03.01.482566)".  *bioRxiv* (2022).
 
 
 #### Reviews about deep learning in proteomics
