@@ -490,7 +490,9 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 
 #### Benchmarking
 
-1. Emily Franklin, Hannes L. Röst, "[Comparing Machine Learning Architectures for the Prediction of Peptide Collisional Cross Section](https://doi.org/10.1101/2022.03.01.482566)".  *bioRxiv* (2022).
+1. Xu R, Sheng J, Bai M, et al. "[A comprehensive evaluation of MS/MS spectrum prediction tools for shotgun proteomics](https://doi.org/10.1002/pmic.201900345)". *Proteomics*, 2020, 20(21-22): 1900345.
+2. Wenrong Chen, Elijah N. McCool, Liangliang Sun, Yong Zang, Xia Ning, Xiaowen Liu. "[Evaluation of machine learning models for proteoform retention and migration time prediction in top-down mass spectrometry](https://doi.org/10.1101/2021.10.31.466700)". *bioRxiv* (2021).
+3. Emily Franklin, Hannes L. Röst, "[Comparing Machine Learning Architectures for the Prediction of Peptide Collisional Cross Section](https://doi.org/10.1101/2022.03.01.482566)". *bioRxiv* (2022).
 
 
 #### Reviews about deep learning in proteomics
