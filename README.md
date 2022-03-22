@@ -220,6 +220,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Kaiyuan Liu, Yuzhen Ye, Haixu Tang. "[PepNet: A Fully Convolutional Neural Network for De novo Peptide Sequencing](https://www.researchsquare.com/article/rs-1341615/v1)". *Research Square*. 2022.
 		
+9. **DePS**: De novo peptide sequencing
+	- Source code: Not available
+	- Pre-trained models: Not available
+	- Reference:  
+		- Cheng Ge, Yi Lu, Jia Qu, Liangxu Xie, Feng Wang, Hong Zhang, Ren Kong, Shan Chang. "[DePS: An improved deep learning model for de novo peptide sequencing](https://arxiv.org/pdf/2203.08820.pdf)". *arXiv*. 2022.
+			
 
 #### Data-independent acquisition mass spectrometry
 
