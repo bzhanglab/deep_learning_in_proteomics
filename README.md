@@ -81,6 +81,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/YuAirLab/Alpha-Frag
 	- Reference:  
 		- Jian, Song, et al. "[Alpha-Frag: a deep neural network for fragment presence prediction improves peptide identification by data independent acquisition mass spectrometry](https://doi.org/10.1101/2021.04.07.438629)." *bioRxiv.* 2021.
+		
+10. **Prosit Transformer**:
+	- Source code: 
+	- Pre-trained models: 
+	- Reference:  
+		- Jian, Song, et al. "[Prosit Transformer: A transformer for Prediction of MS2 Spectrum Intensities](https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00870)." *Journal of Proteome Research* 2022.
 
 
 #### Peptide retention time prediction
