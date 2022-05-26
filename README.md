@@ -88,6 +88,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Jian, Song, et al. "[Prosit Transformer: A transformer for Prediction of MS2 Spectrum Intensities](https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00870)." *Journal of Proteome Research* 2022.
 
+11. **PrAI-frag**
+	- Source code: https://github.com/bertis-prai/PrAI-frag
+	- Pre-trained models: https://github.com/bertis-prai/PrAI-frag
+	- Prediction: http://www.prai.co.kr/, web server.
+	- Reference:  
+		- HyeonSeok Shin, Youngmin Park, Kyunggeun Ahn, and Sungsoo Kim "[Accurate Prediction of y Ions in Beam-Type Collision-Induced Dissociation Using Deep Learning](https://pubs.acs.org/doi/10.1021/acs.analchem.1c03184)." *Analytical Chemistry* May 24, 2022.
+	
 
 #### Peptide retention time prediction
 
