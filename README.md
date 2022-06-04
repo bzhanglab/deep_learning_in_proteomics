@@ -240,6 +240,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: Not available
 	- Reference:  
 		- Cheng Ge, Yi Lu, Jia Qu, Liangxu Xie, Feng Wang, Hong Zhang, Ren Kong, Shan Chang. "[DePS: An improved deep learning model for de novo peptide sequencing](https://arxiv.org/pdf/2203.08820.pdf)". *arXiv*. 2022.
+
+10. **DeepSCP**: Utilizing deep learning to boost single-cell proteome coverage
+	- Source code: https://github.com/XuejiangGuo/DeepSCP
+	- Reference:  
+		- Bing Wang, Yue Wang, Yu Chen, Mengmeng Gao, Jie Ren, Yueshuai Guo, Chenghao Situ, Yaling Qi, Hui Zhu, Yan Li, Xuejiang Guo, [DeepSCP: utilizing deep learning to boost single-cell proteome coverage](https://doi.org/10.1093/bib/bbac214). Briefings in Bioinformatics, 2022;, bbac214.
+
 			
 
 #### Data-independent acquisition mass spectrometry
