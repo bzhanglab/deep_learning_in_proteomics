@@ -257,6 +257,10 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Altenburg, Tom, Thilo Muth, and Bernhard Y. Renard. [yHydra: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics](https://www.biorxiv.org/content/10.1101/2021.12.01.470818v2) bioRxiv (2021).
 
+13. **MSBooster**:  Improving Peptide Identification Rates using Deep Learning-Based Features
+	- Source code: https://github.com/Nesvilab/MSBooster
+	- Reference:  
+		- Kevin L Yang, Fengchao Yu, Guo Ci Teo, Vadim Demichev, Markus Ralser, Alexey I Nesvizhskii. "[MSBooster: Improving Peptide Identification Rates using Deep Learning-Based Features](https://doi.org/10.1101/2022.10.19.512904)" bioRxiv (2021).
 			
 
 #### Data-independent acquisition mass spectrometry
