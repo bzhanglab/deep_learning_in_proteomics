@@ -250,12 +250,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 11. **SpeCollate**: Deep cross-modal similarity network for mass spectrometry data based peptide deductions
 	- Source code: https://pcdslab.github.io/SpeCollate/
 	- Reference:  
-		- Tariq, Muhammad Usman, and Fahad Saeed. "SpeCollate: Deep cross-modal similarity network for mass spectrometry data based peptide deductions." PloS one 16.10 (2021): e0259349.
+		- Tariq, Muhammad Usman, and Fahad Saeed. [SpeCollate: Deep cross-modal similarity network for mass spectrometry data based peptide deductions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259349)." PloS one 16.10 (2021): e0259349.
 		
 12. **yHydra**: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics
 	- Source code: https://github.com/tzom/yHydra
 	- Reference:  
-		- Altenburg, Tom, Thilo Muth, and Bernhard Y. Renard. "yHydra: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics." bioRxiv (2021).
+		- Altenburg, Tom, Thilo Muth, and Bernhard Y. Renard. [yHydra: Deep Learning enables an Ultra Fast Open Search by Jointly Embedding MS/MS Spectra and Peptides of Mass Spectrometry-based Proteomics](https://www.biorxiv.org/content/10.1101/2021.12.01.470818v2) bioRxiv (2021).
 
 			
 
