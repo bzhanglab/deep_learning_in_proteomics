@@ -111,6 +111,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Nekrakalaya, Bhagya, et al. "[Towards Phytopathogen Diagnostics? Coconut Bud Rot Pathogen Phytophthora palmivora Mycelial Proteome Analysis Informs Genome Annotation](https://pubmed.ncbi.nlm.nih.gov/35353641/)." *OMICS: A Journal of Integrative Biology* (2022).
 		- Eric B Zheng, Li Zhao (2022) "[Protein evidence of unannotated ORFs in Drosophila reveals diversity in the evolution and properties of young proteins](https://elifesciences.org/articles/78772)" *eLife* 11:e78772.
 		- Xiang H, Zhang L, Bu F, Guan X, Chen L, Zhang H, Zhao Y, Chen H, Zhang W, Li Y, Lee LJ, Mei Z, Rao Y, Gu Y, Hou Y, Mu F, Dong X. [A Novel Proteogenomic Integration Strategy Expands the Breadth of Neo-Epitope Sources](https://doi.org/10.3390/cancers14123016). **Cancers**. 2022; 14(12):3016.
+		- Xinpei Yi, Bo Wen, Shuyi Ji, Alex Saltzman, Eric J. Jaehnig, Jonathan T. Lei, Qiang Gao, Bing Zhang. "[Deep learning prediction boosts phosphoproteomics-based discoveries through improved phosphopeptide identification](https://doi.org/10.1101/2023.01.11.523329)." *bioRxiv* 2023.
 		
 
 2. **Prosit**
