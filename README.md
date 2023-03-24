@@ -113,6 +113,9 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Xiang H, Zhang L, Bu F, Guan X, Chen L, Zhang H, Zhao Y, Chen H, Zhang W, Li Y, Lee LJ, Mei Z, Rao Y, Gu Y, Hou Y, Mu F, Dong X. [A Novel Proteogenomic Integration Strategy Expands the Breadth of Neo-Epitope Sources](https://doi.org/10.3390/cancers14123016). **Cancers**. 2022; 14(12):3016.
 		- Xinpei Yi, Bo Wen, Shuyi Ji, Alex Saltzman, Eric J. Jaehnig, Jonathan T. Lei, Qiang Gao, Bing Zhang. "[Deep learning prediction boosts phosphoproteomics-based discoveries through improved phosphopeptide identification](https://doi.org/10.1101/2023.01.11.523329)." *bioRxiv* 2023.
 		- Wei Fang, Zhuokun Du, Linlin Kong, Bin Fu, Guibin Wang, Yangjun Zhang, Weijie Qin. "[A rapid and sensitive single-cell proteomic method based on fast liquid-chromatography separation, retention time prediction and MS1-only acquisition](https://doi.org/10.1016/j.aca.2023.341038)." *Analytica Chimica Acta*. 2023.
+		- Kotimoole, ChinmayaNarayana, et al. "[Development of a spectral library for the discovery of altered genomic events in Mycobacterium avium associated with virulence using mass spectrometry-based proteogenomic analysis](https://www.mcponline.org/article/S1535-9476(23)00043-9/fulltext)." *Molecular & Cellular Proteomics*. 2023.
+		- Pham, Thang V., et al. "[A transformer architecture for retention time prediction in liquid chromatography mass spectrometry‐based proteomics](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/pmic.202200041)." *Proteomics* (2023): 2200041. [benchmarking]
+		- Fang, Wei, et al. "[A three-stage search strategy combining database reduction and retention time filtering to improve the sensitivity of low-input and single-cell proteomic analysis](https://doi.org/10.1039/D3AY00191A)." *Analytical Methods* (2023).
 		
 
 2. **Prosit**
