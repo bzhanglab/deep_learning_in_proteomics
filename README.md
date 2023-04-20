@@ -116,6 +116,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Kotimoole, ChinmayaNarayana, et al. "[Development of a spectral library for the discovery of altered genomic events in Mycobacterium avium associated with virulence using mass spectrometry-based proteogenomic analysis](https://www.mcponline.org/article/S1535-9476(23)00043-9/fulltext)." *Molecular & Cellular Proteomics*. 2023.
 		- Pham, Thang V., et al. "[A transformer architecture for retention time prediction in liquid chromatography mass spectrometry‐based proteomics](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/pmic.202200041)." *Proteomics* (2023): 2200041. [benchmarking]
 		- Fang, Wei, et al. "[A three-stage search strategy combining database reduction and retention time filtering to improve the sensitivity of low-input and single-cell proteomic analysis](https://doi.org/10.1039/D3AY00191A)." *Analytical Methods* (2023).
+		- Wen, B., Zhang, B. [PepQuery2 democratizes public MS proteomics data for rapid peptide searching](https://www.nature.com/articles/s41467-023-37462-4). *Nat Commun* 14, 2213 (2023).
 		
 
 2. **Prosit**
