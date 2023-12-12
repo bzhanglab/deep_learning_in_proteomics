@@ -1,7 +1,7 @@
 # [Deep learning in proteomics](https://doi.org/10.1002/pmic.201900335)
 This is a list of applications of deep learning methods in proteomics. 
 
-Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [Deep Learning in Proteomics](https://doi.org/10.1002/pmic.201900335). Proteomics 2020, 20, 1900335.
+Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [Deep Learning in Proteomics](https://doi.org/10.1002/pmic.201900335). Proteomics 2020, 20, 1900335. [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1002/pmic.201900335)](https://juleskreuer.eu/projekte/citation-badge/)
 
 <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757195/bin/PMIC-20-1900335-g004.jpg" width="600" height="AUTO">
 
