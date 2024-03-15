@@ -237,6 +237,9 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/Noble-Lab/casanovo
 	- Reference:  
 		- Melih Yilmaz, William E. Fondrie, Wout Bittremieux, Sewoong Oh, William Stafford Noble. "[De novo mass spectrometry peptide sequencing with a transformer model](https://doi.org/10.1101/2022.02.07.479481)". *bioRxiv*. 2022.
+        - Applications:
+        	- West-Roberts, Jacob A., Luis E. Valentin Alvarado, Susan Mullen, Rohan Sachdeva, Justin Smith, Laura A. Hug, Daniel Gregoire et al. "[Giant genes are rare but implicated in cell wall degradation by predatory bacteria](https://www.biorxiv.org/content/10.1101/2023.11.21.568195v1.full)." bioRxiv (2023): 2023-11.
+         	- Tang, Di, Carlos Alberto Gueto-Tettay, Elisabeth Hjortswang, Joel Ströbaek, Simon Ekström, Lotta Happonen, Lars Malmström, and Johan Malmström. "[Multi-Modal Mass Spectrometry Identifies a Conserved Protective Epitope in S. pyogenes Streptolysin O](https://www.biorxiv.org/content/10.1101/2023.12.02.569700v1.full)." bioRxiv (2023): 2023-12.
 		
 8. **PepNet**: De novo peptide sequencing
 	- Source code: https://github.com/lkytal/PepNet
