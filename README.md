@@ -110,7 +110,7 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Yang, Y., Fang, Q. [Prediction of glycopeptide fragment mass spectra by deep learning](https://doi.org/10.1038/s41467-024-46771-1). *Nat Commun* 15, 2448 (2024).
 
-14. **DeepGlyco**
+14. **DeepGP**
 	- Source code: 
 	- Pre-trained models: 
 	- Reference:  
