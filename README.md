@@ -110,6 +110,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Yang, Y., Fang, Q. [Prediction of glycopeptide fragment mass spectra by deep learning](https://doi.org/10.1038/s41467-024-46771-1). *Nat Commun* 15, 2448 (2024).
 
+14. **DeepGlyco**
+	- Source code: 
+	- Pre-trained models: 
+	- Reference:  
+		- Zong, Yu, Yuxin Wang, Xipeng Qiu, Xuanjing Huang, and Liang Qiao. "[Deep Learning Prediction of Glycopeptide Tandem Mass Spectra Powers Glycoproteomics](https://doi.org/10.1101/2024.02.03.575604)." *bioRxiv* (2024): 2024-02.
+
 
 #### Peptide retention time prediction
 
