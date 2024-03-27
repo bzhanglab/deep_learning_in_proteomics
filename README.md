@@ -96,7 +96,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Prediction: http://www.prai.co.kr/, web server.
 	- Reference:  
 		- HyeonSeok Shin, Youngmin Park, Kyunggeun Ahn, and Sungsoo Kim "[Accurate Prediction of y Ions in Beam-Type Collision-Induced Dissociation Using Deep Learning](https://pubs.acs.org/doi/10.1021/acs.analchem.1c03184)." *Analytical Chemistry* May 24, 2022.
-	
+
+12. **DeepGlyco**
+	- Source code: https://github.com/yyi17/DeepGlyco
+	- Pre-trained models: https://github.com/yyi17/DeepGlyco
+	- Reference:  
+		- Yang, Y., Fang, Q. [Prediction of glycopeptide fragment mass spectra by deep learning](https://doi.org/10.1038/s41467-024-46771-1). *Nat Commun* 15, 2448 (2024).
+
 
 #### Peptide retention time prediction
 
