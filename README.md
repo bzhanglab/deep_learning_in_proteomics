@@ -97,7 +97,14 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- HyeonSeok Shin, Youngmin Park, Kyunggeun Ahn, and Sungsoo Kim "[Accurate Prediction of y Ions in Beam-Type Collision-Induced Dissociation Using Deep Learning](https://pubs.acs.org/doi/10.1021/acs.analchem.1c03184)." *Analytical Chemistry* May 24, 2022.
 
-12. **DeepGlyco**
+12. **AlphaPeptDeep**
+	- Source code: https://github.com/MannLabs/alphapeptdeep
+	- Pre-trained models: https://github.com/MannLabs/alphapeptdeep
+        - Command line and GUI 
+	- Reference:  
+		- Zeng, WF., Zhou, XX., Willems, S. et al. [AlphaPeptDeep: a modular deep learning framework to predict peptide properties for proteomics](https://doi.org/10.1038/s41467-022-34904-3). *Nat Commun* 13, 7238 (2022). 
+
+13. **DeepGlyco**
 	- Source code: https://github.com/yyi17/DeepGlyco
 	- Pre-trained models: https://github.com/yyi17/DeepGlyco
 	- Reference:  
@@ -172,6 +179,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/Rappsilber-Laboratory/xiRT
 	- Reference:  
 		- Giese, S.H., Sinn, L.R., Wegner, F. et al. [Retention time prediction using neural networks increases identifications in crosslinking mass spectrometry](https://www.nature.com/articles/s41467-021-23441-0). *Nat Commun* 12, 3237 (2021).
+
+8. **AlphaPeptDeep**
+	- Source code: https://github.com/MannLabs/alphapeptdeep
+	- Pre-trained models: https://github.com/MannLabs/alphapeptdeep
+        - Command line and GUI 
+	- Reference:  
+		- Zeng, WF., Zhou, XX., Willems, S. et al. [AlphaPeptDeep: a modular deep learning framework to predict peptide properties for proteomics](https://doi.org/10.1038/s41467-022-34904-3). *Nat Commun* 13, 7238 (2022). 
 
 
 #### Peptide CCS prediction
