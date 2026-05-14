@@ -5,7 +5,6 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 
 [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1002/pmic.201900335)](https://juleskreuer.eu/projekte/citation-badge/)
 
-<img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757195/bin/PMIC-20-1900335-g004.jpg" width="600" height="AUTO">
 
 ### Table of contents:
 
@@ -117,6 +116,13 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Reference:  
 		- Zong, Yu, Yuxin Wang, Xipeng Qiu, Xuanjing Huang, and Liang Qiao. "[Deep Learning Prediction of Glycopeptide Tandem Mass Spectra Powers Glycoproteomics](https://doi.org/10.1101/2024.02.03.575604)." *bioRxiv* (2024): 2024-02.
 
+15. **Carafe**
+	- Source code: https://github.com/Noble-Lab/Carafe
+	- Pre-trained models: https://github.com/Noble-Lab/Carafe
+	- Reference:  
+		- Wen, B., Hsu, C., Shteynberg, D. et al. [Carafe enables high quality *in silico* spectral library generation for data-independent acquisition proteomics](https://doi.org/10.1038/s41467-025-64928-4). **Nat Commun** 16, 9815 (2025).
+        - Wen, B., Paez, J., Hsu, C. et al. [Carafe2 enables high quality *in silico* spectral library generation for timsTOF data-independent acquisition proteomics](https://doi.org/10.64898/2026.03.27.714846). **bioRxiv** 2026.
+
 
 #### Peptide retention time prediction
 
@@ -192,7 +198,14 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/MannLabs/alphapeptdeep
         - Command line and GUI 
 	- Reference:  
-		- Zeng, WF., Zhou, XX., Willems, S. et al. [AlphaPeptDeep: a modular deep learning framework to predict peptide properties for proteomics](https://doi.org/10.1038/s41467-022-34904-3). *Nat Commun* 13, 7238 (2022). 
+		- Zeng, WF., Zhou, XX., Willems, S. et al. [AlphaPeptDeep: a modular deep learning framework to predict peptide properties for proteomics](https://doi.org/10.1038/s41467-022-34904-3). *Nat Commun* 13, 7238 (2022).
+
+9. **Carafe**
+	- Source code: https://github.com/Noble-Lab/Carafe
+	- Pre-trained models: https://github.com/Noble-Lab/Carafe
+	- Reference:  
+		- Wen, B., Hsu, C., Shteynberg, D. et al. [Carafe enables high quality *in silico* spectral library generation for data-independent acquisition proteomics](https://doi.org/10.1038/s41467-025-64928-4). **Nat Commun** 16, 9815 (2025).
+        - Wen, B., Paez, J., Hsu, C. et al. [Carafe2 enables high quality *in silico* spectral library generation for timsTOF data-independent acquisition proteomics](https://doi.org/10.64898/2026.03.27.714846). **bioRxiv** 2026.
 
 
 #### Peptide CCS prediction
@@ -202,6 +215,12 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/theislab/DeepCollisionalCrossSection
 	- Reference:  
 		- Meier, F., Köhler, N.D., Brunner, AD. et al. [Deep learning the collisional cross sections of the peptide universe from a million experimental values](https://www.nature.com/articles/s41467-021-21352-8). Nat Commun 12, 1185 (2021).
+
+2. **Carafe**
+	- Source code: https://github.com/Noble-Lab/Carafe
+	- Pre-trained models: https://github.com/Noble-Lab/Carafe
+	- Reference:  
+        - Wen, B., Paez, J., Hsu, C. et al. [Carafe2 enables high quality *in silico* spectral library generation for timsTOF data-independent acquisition proteomics](https://doi.org/10.64898/2026.03.27.714846). **bioRxiv** 2026.
 
 
 #### Peptide detectability prediction
@@ -338,8 +357,15 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 	- Pre-trained models: https://github.com/weizhenFrank/DeepPhospho
 	- Web server: http://shuilab.ihuman.shanghaitech.edu.cn/DeepPhospho
 	- Reference:  
-		- Lou, R., Liu, W., Li, R. et al. [DeepPhospho accelerates DIA phosphoproteome profiling through in silico library generation](https://doi.org/10.1038/s41467-021-26979-1). *Nat Commun* 12, 6685 (2021). 
-		
+		- Lou, R., Liu, W., Li, R. et al. [DeepPhospho accelerates DIA phosphoproteome profiling through in silico library generation](https://doi.org/10.1038/s41467-021-26979-1). *Nat Commun* 12, 6685 (2021).
+
+4. **Carafe**
+	- Source code: https://github.com/Noble-Lab/Carafe
+	- Pre-trained models: https://github.com/Noble-Lab/Carafe
+	- Reference:  
+		- Wen, B., Hsu, C., Shteynberg, D. et al. [Carafe enables high quality *in silico* spectral library generation for data-independent acquisition proteomics](https://doi.org/10.1038/s41467-025-64928-4). **Nat Commun** 16, 9815 (2025).
+        - Wen, B., Paez, J., Hsu, C. et al. [Carafe2 enables high quality *in silico* spectral library generation for timsTOF data-independent acquisition proteomics](https://doi.org/10.64898/2026.03.27.714846). **bioRxiv** 2026.
+
 
 #### Protein post-translational modification site prediction
 
@@ -462,6 +488,11 @@ Wen, B., Zeng, W.-F., Liao, Y., Shi, Z., Savage, S. R., Jiang, W., Zhang, B., [D
 		- Sian Soo Tng, et al. "[Improved Prediction Model of Protein Lysine Crotonylation Sites Using Bidirectional Recurrent Neural Networks
 ](https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00848)." *J. Proteome Res.* 2021.
 
+22. **DeepMVP**
+    - Source code: https://github.com/bzhanglab/DeepMVP
+	- Pre-trained models: https://github.com/bzhanglab/DeepMVP
+	- Reference:  
+		- Wen, B., Wang, C., Li, K. et al. DeepMVP: deep learning models trained on high-quality data accurately predict PTM sites and variant-induced alterations. **Nat Methods** (2025). https://doi.org/10.1038/s41592-025-02797-x
 
 #### MHC-peptide binding prediction
 
